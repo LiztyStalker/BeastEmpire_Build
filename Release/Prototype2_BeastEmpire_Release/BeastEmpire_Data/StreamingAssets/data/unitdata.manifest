@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 383079995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f169c1d2372a7a60233750d5e59bc33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 37f51c88abddfc075eb6672891d043ae
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 410fe5ce5fba38e4fb3a25bacafaa25b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Units/UnitData_Shield.asset
+- Assets/Data/Units/UnitData_Crossbow.asset
+- Assets/Data/Units/UnitData_Club.asset
+- Assets/Data/Units/UnitData_ArmoredChariot.asset
+- Assets/Data/Units/UnitData_FireMage.asset
+- Assets/Data/Units/UnitData_Longbow.asset
+- Assets/Data/Units/UnitData_Axe.asset
+- Assets/Data/Units/UnitData_Criminal.asset
+- Assets/Data/Units/UnitData_ClubShield.asset
+- Assets/Data/Units/UnitData_Sword.asset
+- Assets/Data/Units/UnitData_WindMagician.asset
+- Assets/Data/Units/UnitData_Halbardier.asset
+- Assets/Data/Units/UnitData_Castle.asset
+- Assets/Data/Units/UnitData_Suppressor.asset
+- Assets/Data/Units/UnitData_Spear.asset
+- Assets/Data/Units/UnitData_IceMagician.asset
+- Assets/Data/Units/UnitData_EarthTrainee.asset
+- Assets/Data/Units/UnitData_RoyalRegion.asset
+- Assets/Data/Units/UnitData_Hoplite.asset
+- Assets/Data/Units/UnitData_Militia.asset
+- Assets/Data/Units/UnitData_Trident.asset
+- Assets/Data/Units/UnitData_Pike.asset
+- Assets/Data/Units/UnitData_RoyalLongbow.asset
+- Assets/Data/Units/UnitData_Claw.asset
+- Assets/Data/Units/UnitData_RoyalSkirmisher.asset
+- Assets/Data/Units/UnitData_Chariot.asset
+- Assets/Data/Units/UnitData_Fugitive.asset
+- Assets/Data/Units/UnitData_IceMage.asset
+- Assets/Data/Units/UnitData_Skirmisher.asset
+- Assets/Data/Units/UnitData_Trainee.asset
+- Assets/Data/Units/UnitData_AxeShield.asset
+- Assets/Data/Units/UnitData_FireTrainee.asset
+- Assets/Data/Units/UnitData_RoyalShield.asset
+- Assets/Data/Units/UnitData_ReinforceClaw.asset
+- Assets/Data/Units/UnitData_Outlaw.asset
+- Assets/Data/Units/UnitData_Scout.asset
+- Assets/Data/Units/UnitData_ThrowSpear.asset
+- Assets/Data/Units/UnitData_RoyalSniper.asset
+- Assets/Data/Units/UnitData_TwoHandedSword.asset
+- Assets/Data/Units/UnitData_RoyalCharger.asset
+- Assets/Data/Units/UnitData_RoyalClaw.asset
+- Assets/Data/Units/UnitData_SwordShield.asset
+- Assets/Data/Units/UnitData_Sneak.asset
+- Assets/Data/Units/UnitData_EmpererRoyalGuard.asset
+- Assets/Data/Units/UnitData_Thrower.asset
+- Assets/Data/Units/UnitData_Frenzy.asset
+- Assets/Data/Units/UnitData_ReinforceArmor.asset
+- Assets/Data/Units/UnitData_Armor.asset
+- Assets/Data/Units/UnitData_Berserker.asset
+- Assets/Data/Units/UnitData_Mace.asset
+- Assets/Data/Units/UnitData_FireMagician.asset
+- Assets/Data/Units/UnitData_RoyalThrust.asset
+- Assets/Data/Units/UnitData_Thrust.asset
+- Assets/Data/Units/UnitData_ArmoredShield.asset
+- Assets/Data/Units/UnitData_Blowgun.asset
+- Assets/Data/Units/UnitData_Ranger.asset
+- Assets/Data/Units/UnitData_SpearShield.asset
+- Assets/Data/Units/UnitData_RoyalArmor.asset
+- Assets/Data/Units/UnitData_TwoHandedAxe.asset
+- Assets/Data/Units/UnitData_Hammer.asset
+- Assets/Data/Units/UnitData_WindMage.asset
+- Assets/Data/Units/UnitData_Assaulter.asset
+- Assets/Data/Units/UnitData_EarthMagician.asset
+- Assets/Data/Units/UnitData_Slayer.asset
+- Assets/Data/Units/UnitData_Charger.asset
+- Assets/Data/Units/UnitData_RoyalSpear.asset
+- Assets/Data/Units/UnitData_Archer.asset
+- Assets/Data/Units/UnitData_SlingShot.asset
+- Assets/Data/Units/UnitData_Peltast.asset
+- Assets/Data/Units/UnitData_Conscript.asset
+- Assets/Data/Units/UnitData_Region.asset
+- Assets/Data/Units/UnitData_IceTrainee.asset
+- Assets/Data/Units/UnitData_Hitfest.asset
+- Assets/Data/Units/UnitData_FireWall.asset
+- Assets/Data/Units/UnitData_Sniper.asset
+- Assets/Data/Units/UnitData_WindTrainee.asset
+- Assets/Data/Units/UnitData_IceWall.asset
+- Assets/Data/Units/UnitData_EarthMage.asset
+- Assets/Data/Units/UnitData_RoyalChariot.asset
+- Assets/Data/Units/UnitData_RoyalGuard.asset
+Dependencies: []

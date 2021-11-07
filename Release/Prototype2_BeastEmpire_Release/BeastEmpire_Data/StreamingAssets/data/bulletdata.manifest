@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4180680637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82a80d63b89b473bcf2f52a46c8907fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e4ac0abc0ff86d58a163321e8b31aed7
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: f5af609d8e0f7e64e9c811dc153be298, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Bullets/BulletData_MagicBolt.asset
+- Assets/Data/Bullets/BulletData_Fireball.asset
+- Assets/Data/Bullets/BulletData_RockFall.asset
+- Assets/Data/Bullets/BulletData_Arrow.asset
+- Assets/Data/Bullets/BulletData_Bolt.asset
+- Assets/Data/Bullets/BulletData_IceSpear.asset
+- Assets/Data/Bullets/BulletData_Dart.asset
+- Assets/Data/Bullets/BulletData_Spear.asset
+- Assets/Data/Bullets/BulletData_WindCutter.asset
+Dependencies: []
